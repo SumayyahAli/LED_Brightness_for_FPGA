@@ -1,0 +1,11 @@
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+Clk,,PIN_V11,3B,B3B_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Enable,,PIN_AH17,4A,B4A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[0],,PIN_W15,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[1],,PIN_AA24,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[2],,PIN_V16,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[3],,PIN_V15,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[4],,PIN_AF26,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[5],,PIN_AE26,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[6],,PIN_Y16,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[7],,PIN_AA23,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
