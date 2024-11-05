@@ -14,7 +14,7 @@ This project implements LED brightness control using Pulse Width Modulation (PWM
 1. **PWM (Pulse Width Modulation)**  
    - Generates a PWM signal with a variable duty cycle to control LED brightness.
    - The duty cycle can be adjusted to increase or decrease brightness. A higher duty cycle results in a brighter LED.
-   - Frequency and bit depth are configurable, allowing for control over both standard LEDs and RGB LEDs.
+   - Frequency and bit depth are configurable, allowing for control over both standard LEDs.
   
 2. **COUNTER**
    - Provides timing and frequency division, setting the duration of brightness changes.
